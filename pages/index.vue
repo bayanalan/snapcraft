@@ -22,7 +22,7 @@
           href="https://www.java.com/en/"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="button--blue"
         >
           Java (only for laptops and desktops)
         </a>
